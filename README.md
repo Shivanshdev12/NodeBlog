@@ -1,6 +1,6 @@
 ## NodeBlog
--Download
--install node_modules
+- Download
+- install node_modules
 ## Connect DB
 #### 1.Create mongoDB cluster 
 #### 2.Add MongoDB url to config
